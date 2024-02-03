@@ -1,8 +1,8 @@
 # MarkDoc
 
-A distributed system of note repositories / Zettelkastens, where I store my personal notes and writings and more.
+A distributed system of note repositories / Zettelkästen, where I store my personal notes and writings and more.
 
-For a brief history, refer to Various Zettelkasten's[^varzet].
+You should read up on the definition of a Zettelkasten[^zet] and a brief history of the MarkDoc system[^varzet].
 
 ## Repositories
 
@@ -47,6 +47,7 @@ Some other rules:
 - If item is a file, do not include file extension;
 - Relative path is possible and is encouraged.
 
-For example, to refer to the "In Future" section in the "Various Zettelkasten's" article in the engineeringWiki repository, write `engineeringWiki/Various Zettelkasten's#In Future`
+For example, to refer to the "In Future" section in the "Various Zettelkästen" article in the engineeringWiki repository, write `engineeringWiki/Various Zettelkästen#In Future`
 
-[^varzet]: markdoc:///engineeringWiki/Various Zettelkasten's
+[^zet]: https://en.wikipedia.org/wiki/Zettelkasten
+[^varzet]: markdoc:///engineeringWiki/Various Zettelkästen
