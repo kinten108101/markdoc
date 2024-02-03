@@ -1,6 +1,6 @@
 # MarkDoc
 
-A distributed system of note repositories / Zettelkastens.
+A distributed system of note repositories / Zettelkastens, where I store my personal notes and writings and more.
 
 For a brief history, refer to Various Zettelkasten's[^varzet].
 
